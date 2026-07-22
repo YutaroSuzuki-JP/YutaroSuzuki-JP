@@ -103,8 +103,7 @@ object Engineer {
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YutaroSuzuki-JP&show_icons=true&theme=tokyonight" alt="YutaroSuzuki-JP's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YutaroSuzuki-JP&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YutaroSuzuki-JP&theme=tokyo-night&hide_border=true" alt="YutaroSuzuki-JP's Activity Graph" width="100%" />
 </p>
 
 ---
