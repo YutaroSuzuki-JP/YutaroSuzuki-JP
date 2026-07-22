@@ -102,10 +102,13 @@ object Engineer {
 
 ### 📊 GitHub Stats & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YutaroSuzuki-JP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutaroSuzuki-JP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YutaroSuzuki-JP&show_icons=true&theme=tokyonight" alt="YutaroSuzuki-JP's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutaroSuzuki-JP&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YutaroSuzuki-JP&theme=tokyonight" alt="GitHub Streak" height="165" />
+</p>
 
 ---
 
